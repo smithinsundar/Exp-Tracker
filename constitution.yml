@@ -1,0 +1,8 @@
+name: "Community Budget Tracker"
+description: "A downloadable spreadsheet and forum for budgeting tips"
+maintainers: ["smithinsundar"]  
+reward_distribution:
+  # Reward users for contributing valuable budgeting tips in the forum
+  create_post: 1
+  upvote_post: 0.5
+  reply_to_post: 0.25
